@@ -1,18 +1,18 @@
 {
-  "name": "jihangzi",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "tailwind": "npx tailwind build tailwind.css -o style.css",
-    "build": "env NODE_ENV=production npx tailwind build tailwind.css -o style.css"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "autoprefixer": "^10.3.5",
-    "postcss": "^8.3.7",
-    "tailwindcss": "^2.2.15"
-  }
+    "name": "jihangzi_static",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "tailwind": "npx tailwind build tailwind.css -o style.css",
+        "build": "env NODE_ENV=production npx tailwind build tailwind.css -o style.css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "autoprefixer": "^10.3.5",
+        "postcss": "^8.3.7",
+        "tailwindcss": "^2.2.15"
+    }
 }
